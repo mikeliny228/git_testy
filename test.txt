@@ -5,4 +5,4 @@ tot som zasa doplnil
 tot som zasa doplnil
 
 
-Tento text som vytvoril vo vetve master
+Tento text som zmenil vo vetve feature
