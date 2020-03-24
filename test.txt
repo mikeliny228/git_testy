@@ -5,4 +5,4 @@ tot som zasa doplnil
 tot som zasa doplnil
 
 
-Tento text som upravil vo vetve master a teraz potrebujem nasimulovat aby merge conflict
+A rozhodol som sa že nakoniec ten text bude úplne iný ako som zamýš¾al. 
