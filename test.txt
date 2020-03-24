@@ -4,4 +4,5 @@ sdfasdfa
 tot som zasa doplnil
 tot som zasa doplnil
 
-Toto toto toto doplním tento text som dopisal a zemnit a vytvorim vytvorím z toho branch develop
+
+Takze teraz necham len text, ktory som sa rozhodol nechat
