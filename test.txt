@@ -5,4 +5,4 @@ tot som zasa doplnil
 tot som zasa doplnil
 
 
-Teraz tuto cast textu som zmenil vo vetve develop a idem skusit pomocou nejakeho merge tool
+Tento text som vytvoril vo vetve master
