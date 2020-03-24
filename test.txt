@@ -5,4 +5,4 @@ tot som zasa doplnil
 tot som zasa doplnil
 
 
-Tento text som zmenil vo vetve feature a teraz potrebujem nasimulovat aby merge conflict
+Tento text som upravil vo vetve master a teraz potrebujem nasimulovat aby merge conflict
