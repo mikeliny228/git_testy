@@ -5,4 +5,4 @@ tot som zasa doplnil
 tot som zasa doplnil
 
 
-Teraz som napisal iba tento text a idem skusit pomocou nejakeho merge tool
+Teraz tuto cast textu som zmenil vo vetve develop a idem skusit pomocou nejakeho merge tool
