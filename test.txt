@@ -4,4 +4,4 @@ sdfasdfa
 tot som zasa doplnil
 tot som zasa doplnil
 
-Teraz doplním tento text som dopisal vo vetve master tento text a vytvorím z toho branch develop
+Toto je zakladny text som prepisal v develop branch, ktory som vytvoril v master
