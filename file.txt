@@ -1,2 +1,4 @@
 toto je test
 toto som doplnil priamo na github
+
+toto je zasa doplnene lokalne a nemalo by byt vo feature...
